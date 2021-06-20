@@ -42,6 +42,7 @@ const users = [
   ['Security Scorecard', 'https://www.securityscorecard.io/'],
   ['ShipReq', 'https://shipreq.com'],
   ['Software Mill', 'https://softwaremill.com'],
+  ['Snowplow Analytics', 'https://snowplowanalytics.com'],
   ['SpotX', 'https://www.spotx.tv/'],
   ['Standard Chartered', 'https://www.sc.com'],
   ['SWOP', 'https://swop.cx/'],
